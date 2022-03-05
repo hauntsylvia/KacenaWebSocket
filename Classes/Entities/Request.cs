@@ -8,16 +8,5 @@ namespace KacenaWebSocket.Classes.Entities
 {
     public class Request
     {
-        private readonly string method;
-        public string Method => method;
-
-
-
-
-
-        public Request()
-        {
-
-        }
     }
 }
